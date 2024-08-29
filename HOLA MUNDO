@@ -1,0 +1,12 @@
+<title> ejemplo 1</title>
+<head>
+Bienvenido
+</head>
+<body>
+    <script>
+var recibir=prompt("intoduce tu nombre");
+var edad=prompt("intoduce tu edad");
+
+alert(recibir+edad)
+    </script>
+</body>
